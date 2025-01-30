@@ -1,0 +1,40 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Nov 3, 2024, 6:58:19 PM
+    Author     : Macbook
+*/
+
+body {
+    background-color: #343a40;
+    color: white;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+table {
+    background-color: #495057;
+}
+th, td {
+    color: white;
+}
+.thead-dark th {
+    background-color: #212529;
+}
+.btn {
+    margin: 5px;
+}
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.title h1 {
+    margin: auto;
+}
